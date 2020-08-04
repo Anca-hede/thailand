@@ -1,0 +1,563 @@
+body{
+   
+    font-family: 'Alex Brush', cursive;
+}
+p{
+    background-color:none;
+    font: size 20;px;
+    text-align: center;
+    color: wheat;
+}
+.p1{
+    background-color:none;
+
+    font-size:30px;
+    text-align: center;
+
+
+   
+}
+h1{
+    text-align: center;
+    color: rgb(19, 17, 17);
+    font-size: 80px;
+    font-style: bold;
+    width: 100%;
+
+}
+h3{
+    text-align: center;
+    color: rgba(31, 28, 37, 0.795);
+    font-size: 50px;
+
+}
+h4{
+    text-align: center;
+    color: rgba(31, 28, 37, 0.795);
+    font-size: 30px;
+
+}
+h5{
+    text-align: center;
+    color:rgba(31, 28, 37, 0.795);
+    font-size: 28px;
+}
+h6{
+    text-align: center;
+    color: wheat;
+    font-size: 25px;
+
+}
+
+img { width:250px;
+    height:200px;
+}
+
+}
+.nest{
+    width: 90%;
+    margin-left: 2%;
+    margin-right: 2%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 2%;
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-content: space-around;
+
+}
+
+ .egg{
+        width: 100%;
+        float: left;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: nowrap;
+        align-content: space-around;
+    
+}
+
+.gull10{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color:none;
+    
+    text-align: center;
+}
+.gull3{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color:none;
+     text-align: center;
+}
+.gull4{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color:none;
+    text-align: center;
+}
+
+.gull5{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color:none;
+    text-align: center;
+}
+.gull2{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color:none;
+    text-align: center;
+}
+
+.gull8{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color:none;
+    text-align: center;
+}
+.gull6{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color:none;
+    text-align: center;
+}
+ul{
+  list-style: none;
+   margin: none;
+  padding: 0;
+  width: 100%;
+  float:left;
+  align-items: center;
+  top: 0;
+}
+
+li{
+    float:left;
+   
+
+}
+li a{
+    display:block;
+    color: wheat;
+    text-align: center;
+    text-decoration-color:none;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color:rgb(19, 17, 17);
+    
+}
+
+li a:hover{
+    background-color:wheat;
+    color:rgb(19, 17, 17);
+    font-size: 30px;
+}
+
+
+    nav{
+        align-items:center;
+        text-align: center;
+        float: initial;
+    }
+}
+ 
+    .el{
+        width: 90%;
+        margin-left: 2%;
+        margin-right: 2%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 2%;
+        float: left;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: nowrap;
+        align-content: space-around;
+    
+    }
+    
+     .tig{
+            width: 100%;
+            float: left;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            flex-wrap: nowrap;
+            align-content: space-around;
+        
+    }
+    
+    .mnk10{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        background-color:rgb(19, 17, 17);
+        
+        text-align: center;
+    }
+    .mnk3{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        background-color:none;
+         text-align: center;
+    }
+    .mnk4{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        background-color:none;
+        text-align: center;
+    }
+    
+    .mnk5{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        background-color:none;
+        text-align: center;
+    }
+    .mnk2{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        background-color:none;
+        text-align: center;
+    }
+    
+    .mnk8{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        background-color:none;
+        text-align: center;
+    }
+    .mnk6{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        background-color:rgb(19, 17, 17);
+        text-align: center;
+    }
+    
+
+    .egg1{
+        width: 100%;
+        float: left;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: nowrap;
+        align-content: space-around;
+        padding: none;
+        margin: none;
+        
+    }
+}
+    .nest1{
+        width: 99%;
+        margin-left: none;
+        margin-right: none;  
+        margin-top: none;
+        margin-bottom: 1%;
+        padding-top: none;
+        float: left;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: nowrap;
+        align-content: space-around;
+       
+    }
+    .pw{
+        background-color:none;
+        font-size:20px;
+        font-style: normal;
+        color: wheat;
+        text-align: left;
+    }
+    .wh5{   background-color: none;
+            text-align: center;
+            color: wheat;
+            font-size: 30px;
+        
+    }
+}
+    .inest{
+        width: 90%;
+        margin-left: 2%;
+        margin-right: 2%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 2%;
+        float: left;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        flex-wrap: nowrap;
+        align-content: space-around;
+    
+    }
+    
+     .iegg{
+            width: 100%;
+            float: left;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            flex-wrap: nowrap;
+            align-content: space-around;
+        
+    }
+    
+    .igull10{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        background-color:darkslategrey;
+        
+        text-align: center;
+    }
+    .igull3{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        background-color:darkslategrey;
+         text-align: center;
+    }
+    .igull4{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        background-color:darkslategrey;
+        text-align: center;
+    }
+    .igull2{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-left: 1%;
+        padding-right: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        background-color:darkslategrey;
+        text-align: center;
+    }
+    .vgull10{
+        width: 94%;
+        margin-left: 1%;
+        margin-right: 1%;  
+        margin-top: 1%;
+        margin-bottom: 1%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        background-color:black;
+        text-align: center;
+    }
+}
+.cnest{
+    width: 90%;
+    margin-left: 2%;
+    margin-right: 2%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 2%;
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-content: space-around;
+
+
+}
+
+ .cegg{
+    width: 100%;
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-content: space-around;
+    padding: none;
+    margin: none;
+    
+}
+
+.cgull8{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color:none;
+    text-align: center;
+}
+.cgull3{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color:none;
+    text-align: center;
+}
+.cgull4{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color:none;
+    text-align: center;
+}
+.cgull2{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color:none;
+    text-align: center;
+}
+.cgull6{
+    width: 94%;
+    margin-left: 1%;
+    margin-right: 1%;  
+    margin-top: 1%;
+    margin-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color:none;
+    text-align: center;
+}
+.cimg { 
+        width:250px;
+        height:200px;
+        background-size: 100%;
+     
+}
+
+}
